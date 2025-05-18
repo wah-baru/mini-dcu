@@ -1,0 +1,25 @@
+[
+  {
+    "app": "meter2",
+    "body": [
+      {
+        "devId": 2,
+        "type": 1,
+        "host": "127.0.0.1",
+        "ports": 1236,
+        "com": "rs485",
+        "rs485": "/dev/ttyUSB0",
+        "rs232": "/dev/ttyUSB6",
+        "baudRate": 19200,
+        "clientAddress": 6,
+        "serverAddress": 16,
+        "serverAddressSize": 0,
+        "auth": "low",
+        "password": "00000000",
+        "interface": "wrapper",
+        "securityLevel": "none",
+        "systemTitle": "4858450331482042"
+      }
+    ]
+  }
+]
